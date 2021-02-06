@@ -1,3 +1,2 @@
 # MyRaspberryPi
-All projects using my raspberry pi\
-test
+All projects using my raspberry pi
